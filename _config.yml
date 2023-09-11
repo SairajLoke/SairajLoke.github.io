@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sairaj Loke"
-  avatar           : "profile1"
+  avatar           : "profile1.jpg"
   bio              : "3rd year Undergrad at IIT Indore"
   location         : "Indore, India"
   employer         :
@@ -113,8 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  
+  youtube          :  ""
   wikipedia        :
+  # medium           :  
 
 
 # Reading Files
@@ -178,9 +179,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
