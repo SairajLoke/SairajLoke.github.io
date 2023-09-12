@@ -28,7 +28,7 @@ Ongoing
 		<i>This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
 		<br>
 		<ul>
-		  <!-- <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc -->
+		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
 		</ul>
 		</i>
 		</span>
@@ -52,7 +52,7 @@ Ongoing
 		<i>This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
 		<br>
 		<ul>
-		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc
+		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
 		</ul>
 		</i>
 		</span>
