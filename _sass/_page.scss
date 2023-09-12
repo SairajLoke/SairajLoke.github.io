@@ -18,14 +18,23 @@
 
 
 // my additions 
+.title {
+  font-weight: 900;
+  line-height: 1.4;
+  font-size: 14px;
+  font-style: italic;
+  color: #093863;
+}
 .research-block {
   text-align: center;
   padding: 2px 0;
+  padding-left: 1%;
   margin-bottom: 4px;
   border-radius: 5px;
 }
 .research-text {
   font-size: 13px; 
+  font-style: italic;
 }
 .research-img {
   
@@ -42,7 +51,6 @@
   font-size:1.2em;
   line-height: 30px;
 }
-
 .small_font {
   font-size:15px;
   line-height: 14px;
@@ -53,9 +61,6 @@
 .lightgreen{
   background: #c0f6c5
 }
-
-
-
 .left {
   width: 180px;
   display: inline-block;
@@ -64,13 +69,7 @@
   margin-right: 15px;
 }
 
-.title {
-  font-weight: 900;
-  line-height: 1.4;
-  font-size: 14px;
-  font-style: italic;
-  color: #093863;
-}
+
 
 .right {
   max-width: 500px;

@@ -3,7 +3,9 @@
 permalink: /projects/
 author_profile: true
 ---
-<!-- # Ongoing  -->
+
+
+# Ongoing 
 
 <!-- ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
 
@@ -34,7 +36,8 @@ author_profile: true
 		<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
 		<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a></div>
 		<span class="research-text">
-		This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
+		<i>This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
+		- keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc</i>
 		</span>
 	</div>
 </div>
