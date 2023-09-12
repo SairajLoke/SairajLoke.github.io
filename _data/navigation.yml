@@ -6,25 +6,29 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
+  - title: "Art and Sport"
+    url: /Art and Sport/    
   # - title: "Teaching"
   #   url: /teaching/    
   - title: "Achievements"
-    url: /achievements/
+    url: /Achievements/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Volunteering and Others"
+    url: /Volunteering and Others/    
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+      
   - title: "CV"
     url: /cv/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
   - title: "Gift For Visiting!"
     url: /GiftForVisiting/
