@@ -21,7 +21,7 @@ author_profile: true
 
 
 
-<div class="research-block lightblue">
+<div class="research-block lightgreen">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/ntnu-bluerov2.jpeg">
