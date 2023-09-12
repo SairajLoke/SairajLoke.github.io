@@ -6,10 +6,13 @@ author_profile: true
 <!-- # Ongoing  -->
 
 ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
+<a href="https://www.autonomousrobotslab.com/">NTNU-Autonomous Robotics Lab, Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
+ 
+
+
 - **Keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc**
 <br>
-<a href="https://www.autonomousrobotslab.com/">NTNU- Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
- 
+
 
 <span class="research-img">
 	<img src="/images/ntnu-bluerov2.jpeg" width="450px">
@@ -17,11 +20,21 @@ author_profile: true
 <span class="research-text">
 This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.</i></span>
 
+
+
+<!-- Start of Card with Light Blue Background -->
+<div style="background-color: lightblue; padding: 20px;">
+
 ![Fissure in Sandstone](https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp)
+
 **Card title**
+
 Some quick example text to build on the card title and make up the bulk of the card's content.
+
 [Button](#!)
 
+</div>
+<!-- End of Card with Light Blue Background -->
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 

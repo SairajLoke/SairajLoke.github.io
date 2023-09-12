@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore).Currently the Chair of IEEE-RAS IIT Indore Chapter, Head of Autonomy Division IVDC.
+
+   I was also a Data Scientist at Microsoft. I led the recommendation and suggestion team for the world’s biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
+   Creative Outlet. I am a musician. I sing and play guitar. I have toured and performed at several places with my previous band, Andrometa. I also LOVE traveling and used to create travel vlogs and music covers on YouTube! My brother is an amazing pianist and has taken over the channel now: Insen: Outdoor Pianist.
+
+Interests
+My interest lies at the intersection of computer vision and Robotics. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation.
+   Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete – they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in implicit representations of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
