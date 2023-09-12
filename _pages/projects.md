@@ -5,20 +5,21 @@ author_profile: true
 ---
 <!-- # Ongoing  -->
 
-## Autonomous Underwater Vehicle in Uncertainity Prone Environments
+<!-- ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
+
 <a href="https://www.autonomousrobotslab.com/">NTNU-Autonomous Robotics Lab, Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
 
 - **Keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc**
-<br>
+<br> -->
 
 
-<span class="research-img">
+<!-- <span class="research-img">
 	<img src="/images/ntnu-bluerov2.jpeg" width="450px">
-</span>
-<span class="research-text">
-This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.</i></span>
+</span> -->
 
-<div class="research-block">
+
+
+<div class="research-block lightblue">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/ntnu-bluerov2.jpeg">
@@ -26,20 +27,19 @@ This projects inovlves with initially transferring the Autonomy Stack (from Aeri
 	</div>
 	<div class="right">
 		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
-		<div class="sub-title"><a href="https://www.autonomousrobotslab.com/">NTNU-Autonomous Robotics Lab, Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
-		 <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a></div>
+		<div class="sub-title">
+		<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+		<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
+		<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, 
+		<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
+		<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a></div>
 		<span class="research-text">
 		This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
 		</span>
 	</div>
 </div>
 
-<!-- Start of Card with Light Blue Background -->
-<div style="background-color: lightblue; padding: 20px;">
 
-
-</div>
-<!-- End of Card with Light Blue Background -->
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
