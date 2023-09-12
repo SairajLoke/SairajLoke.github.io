@@ -50,7 +50,7 @@ Ongoing
 <div class="research-block lightyellow">
 	<div class="up">
 		<span class="research-img">
-			<img src="/images/iiti-igvc">
+			<img src="/images/ntnu-bluerov2.jpeg">
 		</span>
 	</div>
 	<div class="down">
