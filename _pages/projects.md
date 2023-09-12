@@ -36,13 +36,6 @@ This projects inovlves with initially transferring the Autonomy Stack (from Aeri
 <!-- Start of Card with Light Blue Background -->
 <div style="background-color: lightblue; padding: 20px;">
 
-![Fissure in Sandstone](https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp)
-
-**Card title**
-
-Some quick example text to build on the card title and make up the bulk of the card's content.
-
-[Button](#!)
 
 </div>
 <!-- End of Card with Light Blue Background -->
