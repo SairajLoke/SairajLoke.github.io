@@ -3,7 +3,7 @@
 permalink: /projects/
 author_profile: true
 ---
-# Ongoing 
+<!-- # Ongoing  -->
 
 ## Autonomous Underwater Vehicles
 
