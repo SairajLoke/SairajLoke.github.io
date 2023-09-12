@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-# Ongoing 
+## Ongoing
 
 <!-- ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
 
@@ -20,7 +20,7 @@ author_profile: true
 </span> -->
 
 
-
+						   
 <div class="research-block lightyellow">
 	<div class="up">
 		<span class="research-img">
