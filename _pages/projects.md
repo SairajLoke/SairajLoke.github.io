@@ -7,8 +7,6 @@ author_profile: true
 
 ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
 <a href="https://www.autonomousrobotslab.com/">NTNU-Autonomous Robotics Lab, Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
- 
-
 
 - **Keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc**
 <br>
@@ -23,7 +21,7 @@ This projects inovlves with initially transferring the Autonomy Stack (from Aeri
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/ntnu-bluerov2">
+			<img src="/images/ntnu-bluerov2.jpeg">
 		</span>
 	</div>
 	<div class="right">

@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello " :blush: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore).Currently the Chair of IEEE-RAS IIT Indore Chapter, Head of Autonomy Division IVDC.
 
    I was also a Data Scientist at Microsoft. I led the recommendation and suggestion team for the world’s biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
