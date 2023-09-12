@@ -16,7 +16,17 @@
   }
 }
 
+
 // my additions 
+.research-block {
+  text-align: center;
+  padding: 2px 0;
+  margin-bottom: 4px;
+  border-radius: 5px;
+}
+.research-text {
+  font-size: 13px; 
+}
 .research-img {
   
   display: block;
@@ -24,7 +34,7 @@
 
   img {
     max-width: 100%;
-    max-height: 175px;
+    max-height: 250px;
   }
 }
 
@@ -44,15 +54,7 @@
   background: #c0f6c5
 }
 
-.research-block {
-  text-align: center;
-  padding: 18px 0;
-  margin-bottom: 4px;
-  border-radius: 5px;
-}
-.research-text {
-  font-size: 13px; 
-}
+
 
 .left {
   width: 180px;
