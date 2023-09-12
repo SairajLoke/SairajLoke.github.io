@@ -1,6 +1,3 @@
-
-
-
 ---
 permalink: /
 title: "Hello !" 
@@ -9,9 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header: Bhai
 
-
-![Header Image](/images/rohtank3.jpeg)
 --- 
 
 
