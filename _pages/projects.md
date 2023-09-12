@@ -7,7 +7,7 @@ author_profile: true
 
 ## 
 
-**Path Planning , Obstacle Avoidance, AUV**, <a href="" target="_blank">paper</a>
+**Patha Planning , Obstacle Avoidance, AUV**, <a href="" target="_blank">paper</a>
 
 <span class="research-img">
 	<img src="/images/ntnu-bluerov2.jpeg" width="450px">
