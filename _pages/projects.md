@@ -7,7 +7,7 @@ author_profile: true
 
 ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
 
-**Keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean, **,
+- **Keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc**
 <br>
 <a href="https://www.autonomousrobotslab.com/">NTNU- Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
  
@@ -19,7 +19,6 @@ author_profile: true
 <span class="research-text">
 This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.</i></span>
 
-
 ![Fissure in Sandstone](https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp)
 
 **Card title**
@@ -27,19 +26,6 @@ This projects inovlves with initially transferring the Autonomy Stack (from Aeri
 Some quick example text to build on the card title and make up the bulk of the card's content.
 
 [Button](#!)
-In this Markdown representation:
-
-![Fissure in Sandstone](https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp) is used to display an image with an alternative text.
-
-**Card title** creates a bold text that serves as the card's title.
-
-Some quick example text to build on the card title and make up the bulk of the card's content. represents the card's content text.
-
-[Button](#!) creates a link-like button with the text "Button" that doesn't link to any specific URL (similar to #! in your HTML example).
-
-Keep in mind that Markdown is more limited in terms of styling and layout compared to HTML and CSS, so the appearance of this Markdown representation may not be as visually appealing or customizable as the HTML and Bootstrap card. However, Markdown is great for creating simple, readable content with basic formatting.
-
-
 
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
