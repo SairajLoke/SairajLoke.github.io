@@ -5,12 +5,12 @@ author_profile: true
 ---
 <!-- # Ongoing  -->
 
-## Autonomous Underwater Vehicles
+## 
 
-**Path Planning , Obstacle Avoidance, AUV**, <a href="https://www.researchgate.net/profile/Aditya_Agarwal8/publication/344587654_EasyChair_Preprint_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion/links/5f821144299bf1b53e1de51e/EasyChair-Preprint-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion.pdf" target="_blank">paper</a>, (accepted at ISVC), 2020
+**Path Planning , Obstacle Avoidance, AUV**, <a href="" target="_blank">paper</a>
 
 <span class="research-img">
-	<img src="/images/pbar.jpeg" width="450px">
+	<img src="/images/ntnu-bluerov2.jpeg" width="450px">
 </span>
 
 <span class="research-text">
