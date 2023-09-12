@@ -22,12 +22,12 @@ author_profile: true
 
 
 <div class="research-block lightgreen">
-	<div class="left">
+	<div class="up">
 		<span class="research-img">
 			<img src="/images/ntnu-bluerov2.jpeg">
 		</span>
 	</div>
-	<div class="right">
+	<div class="down">
 		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
 		<div class="sub-title">
 		<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
