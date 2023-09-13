@@ -4,8 +4,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-Ongoing
+<span class="title">
+	Ongoing
+<span>
 
 
 <div class="research-block lightyellow">
