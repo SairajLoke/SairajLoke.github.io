@@ -25,7 +25,7 @@ author_profile: true
 			<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a>
 		</div>
 		<span class="research-text">
-		<i>This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
+		<i>This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
 		<br>
 		<ul>
 		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
@@ -43,7 +43,7 @@ author_profile: true
 		</span>
 	</div>
 	<div class="down">
-		<div class="title">Autonomous Ground Vehicle</div>
+		<div class="title">International Ground Vehicle Competition</div>
 		<div class="sub-title">
 		<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >IIT Indore Team , IGVC 2024 </a> under guidance of 
 		<a href="http://www.kostasalexis.com/">Devendra Deshmukh </a> in team of ~25 students
@@ -72,19 +72,17 @@ author_profile: true
 		</span>
 	</div>
 	<div class="down">
-		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
 		<div class="sub-title">
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
-			<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
-			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, 
-			<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
-			<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a>
+			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Sujata Gudge</a>, 
 		</div>
 		<span class="research-text">
-		This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
+		
 		<br>
 		<ul>
-		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc . </li>
+		  <li> <b>keywords:</b>Pytorch , Data Augmentation , GANs </li>
 		</ul>
 		</span>
 	</div>
