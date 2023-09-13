@@ -74,9 +74,9 @@ author_profile: true
 	<div class="down">
 		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
 		<div class="sub-title">
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href=""  style="font-family: inherit;" >RuTAG, IIT Indore </a> under guidance of 
 			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
-			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Sujata Gudge</a>, 
+			<a href="">Sujata Gudge</a>, 
 		</div>
 		<span class="research-text">
 		
