@@ -61,9 +61,11 @@ author_profile: true
 
 
 
-Completed 
+<span class="title">
+	Completed
+<span>
 
-<div class="research-block lightyellow">
+<div class="research-block lightgreen">
 	<div class="up">
 		<span class="research-img">
 			<img src="/images/ntnu-bluerov2.jpeg">
