@@ -25,6 +25,6 @@ Check these out -
 
 List of AI/Robotics Labs ( definitely not exhaustive :wink: )
 
-
+More resources to be added !
 
 
