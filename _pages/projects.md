@@ -12,7 +12,7 @@ author_profile: true
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
-			<img src="images/ntnu-bluerov2.jpeg">
+			<img src="/images/ntnu-bluerov2.jpeg">
 		</span>
 	</div>
 	<div class="right">
@@ -38,7 +38,7 @@ author_profile: true
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
-			<img src="images/igvc.png">
+			<img src="/images/igvc.png">
 		</span>
 	</div>
 	<div class="right">
@@ -66,7 +66,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="images/ntnu-bluerov2.jpeg">
+			<img src="/images/ntnu-bluerov2.jpeg">
 		</span>
 	</div>
 	<div class="right">
@@ -78,7 +78,7 @@ author_profile: true
 			<a href="">Sujata Gudge</a>
 		</div>
 		<span class="research-text">
-			
+
 		<ul>
 		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
 		</ul>
