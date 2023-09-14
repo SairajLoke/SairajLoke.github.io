@@ -16,10 +16,20 @@ author_profile: true
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork</div>
-		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a></div>
+		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+			<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
+			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>,
+			<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
+			<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a>
+		</div>
 		<span class="research-text">
-		Learning generalizable NeRF priors over categories of scenes or objects has been challenging due to the high dimensionality of network weight space. To address the limitations of existing work on generalization, multi-view consistency and to improve quality, we propose HyP-NeRF, a latent conditioning method for learning generalizable category-level NeRF priors using hypernetworks. 
+		>This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
+		<ul>
+		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
+		</ul>
 		</span>
 	</div>
 </div>
