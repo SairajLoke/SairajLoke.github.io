@@ -55,7 +55,7 @@ author_profile: true
 <div class="research-block lightyellow">
 	<div class="up">
 		<span class="research-img">
-			<img src="/images/igvc.jpeg">
+			<img src="/images/igvc.png">
 		</span>
 	</div>
 	<div class="down">
