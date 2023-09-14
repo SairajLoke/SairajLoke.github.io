@@ -39,7 +39,7 @@ author_profile: true
 <div class="research-block lightyellow">
 	<div class="up">
 		<span class="research-img">
-			<img src="/images/ntnu-bluerov2.jpeg">
+			<img src="/images/igvc.jpeg">
 		</span>
 	</div>
 	<div class="down">
