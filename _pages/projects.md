@@ -45,7 +45,7 @@ author_profile: true
 		<div class="title">International Ground Vehicle Competition</div>
 		<div class="sub-title">
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit ; color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
 			<a href="http://www.kostasalexis.com/">Devendra Deshmukh </a> in a team of ~25 students
 		</div>
 		<span class="research-text">
