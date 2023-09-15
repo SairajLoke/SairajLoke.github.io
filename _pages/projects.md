@@ -19,11 +19,12 @@ author_profile: true
 		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
 		<div class="sub-title">
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
 			<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
 			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>,
 			<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
 			<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a>
+			<a class="tab_paper" href="">Github</a>
 		</div>
 		<span class="research-text">
 		>This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
@@ -47,6 +48,7 @@ author_profile: true
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
 			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit ; color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
 			<a href="http://www.kostasalexis.com/">Devendra Deshmukh </a> in a team of ~25 students
+			<a class="tab_paper" href="">Github</a>
 		</div>
 		<span class="research-text">
 			------------------
@@ -73,9 +75,10 @@ author_profile: true
 		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
 		<div class="sub-title">
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href=""  style="font-family: inherit;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
 			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
 			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
 		</div>
 		<span class="research-text">
 
