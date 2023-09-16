@@ -10,17 +10,20 @@ redirect_from:
 --- 
 
 
-<div class="about_image"></div>
+<div class="about_image">
 
+    
+  I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore).Currently the Chair of IEEE-RAS IIT Indore Chapter, Head of Autonomy Division IVDC.
 
-I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore).Currently the Chair of IEEE-RAS IIT Indore Chapter, Head of Autonomy Division IVDC.
+     I was also a Data Scientist at Microsoft. I led the recommendation and suggestion team for the world’s biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
+     Creative Outlet. I am a musician. I sing and play guitar. I have toured and performed at several places with my previous band, Andrometa. I also LOVE traveling and used to create travel vlogs and music covers on YouTube! My brother is an amazing pianist and has taken over the channel now: Insen: Outdoor Pianist.
 
-   I was also a Data Scientist at Microsoft. I led the recommendation and suggestion team for the world’s biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
-   Creative Outlet. I am a musician. I sing and play guitar. I have toured and performed at several places with my previous band, Andrometa. I also LOVE traveling and used to create travel vlogs and music covers on YouTube! My brother is an amazing pianist and has taken over the channel now: Insen: Outdoor Pianist.
+  Interests
+  My interest lies at the intersection of computer vision and Robotics. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation.
+     Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete – they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in implicit representations of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!
 
-Interests
-My interest lies at the intersection of computer vision and Robotics. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation.
-   Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete – they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in implicit representations of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!
+</div>
+
 
 
 
