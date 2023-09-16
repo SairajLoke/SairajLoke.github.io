@@ -10,6 +10,9 @@ redirect_from:
 --- 
 
 
+<div class="about_image"></div>
+
+
 I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore).Currently the Chair of IEEE-RAS IIT Indore Chapter, Head of Autonomy Division IVDC.
 
    I was also a Data Scientist at Microsoft. I led the recommendation and suggestion team for the world’s biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
