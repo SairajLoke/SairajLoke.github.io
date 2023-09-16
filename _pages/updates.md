@@ -5,7 +5,8 @@ author_profile: true
 redirect_from:
   - /updates.html
 ---
-<ul style="margin-top:-3px" class="updates">
+
+<ul style="margin-top:-3px" class="recent_updates" >
     <li><span class="updates-month">AUG '23</span> 
         <span class="updates-content">1st Aug - 31st , Attended the <b>7<sup>th</sup> Summer School of AI</b><a target="_blank" href="https://cvit.iiit.ac.in/summerschool2023/"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> held online by CVIT-IIIT-H!<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
         <!-- <span class="updates-month">IIITH</span>  -->
