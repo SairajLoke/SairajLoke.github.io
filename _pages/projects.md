@@ -89,6 +89,178 @@ author_profile: true
 	</div>
 </div>
 
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/ntnu-bluerov2.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >RuTAG, IIT Indore </a> under guidance of 
+			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
+			<a href="">Sujata Gudge</a>
+			<a class="tab_paper" href="">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+
+
+
+
 
 <!-- 
 <div class="research-block lightyellow">
