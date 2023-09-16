@@ -163,7 +163,7 @@ incremental: false
 
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/rohtank1.jpeg
+  overlay_image: /images/rohtank1.jpeg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
