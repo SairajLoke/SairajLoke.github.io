@@ -12,7 +12,7 @@ author_profile: true
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/ntnu-bluerov2.jpeg">
+			<img src="/images/cproj-rosholoocean.png">
 		</span>
 	</div>
 	<div class="right">
@@ -142,7 +142,7 @@ author_profile: true
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">Flutter Based App for Student-Professor Interaction & Automated Email Segregation</div>
+		<div class="title">Flutter Based App for Student-Professor Interaction & Automated Email Sorting</div>
 		<div class="sub-title">
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
 			<a href=""  style="font-family: inherit;color: blue;" >Software Development Course, IIT Indore </a>
