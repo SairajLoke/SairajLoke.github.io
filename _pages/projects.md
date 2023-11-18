@@ -8,7 +8,7 @@ author_profile: true
 	Ongoing
 <span>
 
-
+<!--  NTNU -->
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
@@ -28,6 +28,7 @@ author_profile: true
 		</div>
 		<span class="research-text">
 		>This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
+		-  Developed a ROS wrapper for HoloOcean Simulator.
 		<ul>
 		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
 		</ul>
@@ -35,7 +36,7 @@ author_profile: true
 	</div>
 </div>
 
-
+<!-- IGVC -->
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
@@ -46,7 +47,7 @@ author_profile: true
 		<div class="title">International Ground Vehicle Competition</div>
 		<div class="sub-title">
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit ; color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit ; color: blue;" >IIT Indore </a> under guidance of 
 			<a href="http://www.kostasalexis.com/">Devendra Deshmukh </a> in a team of ~25 students
 			<a class="tab_paper" href="">Github</a>
 		</div>
@@ -60,6 +61,7 @@ author_profile: true
 </div>
 
 
+<!-- RuTAG -->
 <span class="title">
 	Completed
 <span>
@@ -68,7 +70,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/ntnu-bluerov2.jpeg">
+			<img src="/images/soyimg.jpg">
 		</span>
 	</div>
 	<div class="right">
@@ -89,13 +91,129 @@ author_profile: true
 	</div>
 </div>
 
+<!-- Gesture Controlled Car -->
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/gestcar.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Gesture Contorlled Car (Vision Based) </div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >IVDC/Robotics Club IIT Indore </a> 
+			<a class="tab_paper" href="https://github.com/SairajLoke/GestureGo-GestureControlledCar">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> TensorFLow, MediaPipe, ESP32, Fast(30fps) </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<!-- Lane Following car -->
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/lanefollowingcar.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Lane Following and Obstacle Avoiding Car</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >IVDX, IIT Indore </a>
+			<a class="tab_paper" href="https://www.youtube.com/watch?v=1DSEF7tn150&t=3s">See the Full Video</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> OpenCV, LaneFollowing, EdgeComputing </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<!-- IITI Hub -->
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/demoiitihub.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Flutter Based App for Student-Professor Interaction & Automated Email Segregation</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >Software Development Course, IIT Indore </a>
+			<a class="tab_paper" href="https://github.com/ASM-developers/iitihub">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> Flutter, Firebase , Dart </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+
+<!-- Drona -->
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/pluto.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Python Api for Drona Aviation Pluto Drone</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >IIT Kanpur/ Drona Aviation </a> InterIIT 11.0
+			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> OpenCV, Python , API developement , RealDrone, Hardware, PID, Trajectory Tracking</li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+
+<!-- Polynomial FFT Hub -->
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/parafft.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Parallel FFT for Polynomial Multiplicationn</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >Parallel Computing Course, IIT Indore </a>
+			<a class="tab_paper" href="https://github.com/madhaviit/paraFFT">Github</a>
+		</div>
+		<span class="research-text">
+
+		<ul>
+		  <li> <b>keywords:</b> OpenMP, C++, Fast Fourier Transform</li>
+		</ul>
+		</span>
+	</div>
+</div>
 
 
 
 
 
 
-<!-- 
+<!-- <!-- 
 <div class="research-block lightyellow">
 	<div class="up">
 		<span class="research-img">
@@ -120,70 +238,4 @@ author_profile: true
 		</i>
 		</span>
 	</div>
-</div>
-
-
-<div class="research-block lightyellow">
-	<div class="up">
-		<span class="research-img">
-			<img src="/images/igvc.png">
-		</span>
-	</div>
-	<div class="down">
-		<div class="title">International Ground Vehicle Competition</div>
-		<div class="sub-title">
-		<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >IIT Indore Team , IGVC 2024 </a> under guidance of 
-		<a href="http://www.kostasalexis.com/">Devendra Deshmukh </a> in team of ~25 students
-		<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a></div>
-		<span class="research-text">
-		<i>This projects inovlves with initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
-		<br>
-		<ul>
-		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
-		</ul>
-		</i>
-		</span>
-	</div>
-</div>
-
-
-
-<span class="title">
-	Completed
-<span>
-
-<div class="research-block lightgreen">
-	<div class="up">
-		<span class="research-img">
-			<img src="/images/ntnu-bluerov2.jpeg">
-		</span>
-	</div>
-	<div class="down">
-		<div class="title">Data Augmentation for Soyabean Leaf Disease Classification</div>
-		<div class="sub-title">
-			<a href=""  style="font-family: inherit;" >RuTAG, IIT Indore </a> under guidance of 
-			<a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> along with 
-			<a href="">Sujata Gudge</a>, 
-		</div>
-		<span class="research-text">
-		
-		<br>
-		<ul>
-		  <li> <b>keywords:</b>Pytorch , Data Augmentation , GANs </li>
-		</ul>
-		</span>
-	</div>
-</div>
- -->
-
-<!-- ## Autonomous Underwater Vehicle in Uncertainity Prone Environments
-
-<a href="https://www.autonomousrobotslab.com/">NTNU-Autonomous Robotics Lab, Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with <a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, <a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
-
-- **Keywords: AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc**
-<br> -->
-
-
-<!-- <span class="research-img">
-	<img src="/images/ntnu-bluerov2.jpeg" width="450px">
-</span> -->
+<
