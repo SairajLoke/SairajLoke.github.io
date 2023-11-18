@@ -83,7 +83,6 @@ author_profile: true
 			<a class="tab_paper" href="">Github</a>
 		</div>
 		<span class="research-text">
-
 		<ul>
 		  <li> <b>keywords:</b> Pytorch , Data Augmentation , GANs  </li>
 		</ul>
@@ -95,7 +94,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/gestcar.jpg">
+			<img src="/images/cproj-gestcar.png">
 		</span>
 	</div>
 	<div class="right">
@@ -106,7 +105,6 @@ author_profile: true
 			<a class="tab_paper" href="https://github.com/SairajLoke/GestureGo-GestureControlledCar">Github</a>
 		</div>
 		<span class="research-text">
-
 		<ul>
 		  <li> <b>keywords:</b> TensorFLow, MediaPipe, ESP32, Fast(30fps) </li>
 		</ul>
@@ -118,7 +116,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/lanefollowingcar.jpg">
+			<img src="/images/cproj-lfc.webp">
 		</span>
 	</div>
 	<div class="right">
@@ -129,7 +127,6 @@ author_profile: true
 			<a class="tab_paper" href="https://www.youtube.com/watch?v=1DSEF7tn150&t=3s">See the Full Video</a>
 		</div>
 		<span class="research-text">
-
 		<ul>
 		  <li> <b>keywords:</b> OpenCV, LaneFollowing, EdgeComputing </li>
 		</ul>
@@ -141,7 +138,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/demoiitihub.jpg">
+			<img src="/images/cproj-iitihub.png">
 		</span>
 	</div>
 	<div class="right">
@@ -152,7 +149,6 @@ author_profile: true
 			<a class="tab_paper" href="https://github.com/ASM-developers/iitihub">Github</a>
 		</div>
 		<span class="research-text">
-
 		<ul>
 		  <li> <b>keywords:</b> Flutter, Firebase , Dart </li>
 		</ul>
@@ -165,7 +161,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/pluto.jpg">
+			<img src="/images/cprof-pluto.png">
 		</span>
 	</div>
 	<div class="right">
@@ -176,7 +172,6 @@ author_profile: true
 			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023">Github</a>
 		</div>
 		<span class="research-text">
-
 		<ul>
 		  <li> <b>keywords:</b> OpenCV, Python , API developement , RealDrone, Hardware, PID, Trajectory Tracking</li>
 		</ul>
@@ -189,7 +184,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/parafft.jpg">
+			<img src="/images/cproj-parafft.png">
 		</span>
 	</div>
 	<div class="right">
@@ -200,42 +195,9 @@ author_profile: true
 			<a class="tab_paper" href="https://github.com/madhaviit/paraFFT">Github</a>
 		</div>
 		<span class="research-text">
-
 		<ul>
 		  <li> <b>keywords:</b> OpenMP, C++, Fast Fourier Transform</li>
 		</ul>
 		</span>
 	</div>
 </div>
-
-
-
-
-
-
-<!-- <!-- 
-<div class="research-block lightyellow">
-	<div class="up">
-		<span class="research-img">
-			<img src="/images/ntnu-bluerov2.jpeg">
-		</span>
-	</div>
-	<div class="down">
-		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
-		<div class="sub-title">
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
-			<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
-			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>, 
-			<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
-			<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a>
-		</div>
-		<span class="research-text">
-		<i>This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
-		<br>
-		<ul>
-		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
-		</ul>
-		</i>
-		</span>
-	</div>
-<
