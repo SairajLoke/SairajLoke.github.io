@@ -33,4 +33,4 @@ Deep Learning Concepts and Implementation references:
 <p style="text-decoration:underline;"><a href="https://github.com/ritchieng/the-incredible-pytorch">2. Official Pytorch Repo</a></p>
 
     
-    
+updated 18 Nov. 2023    
