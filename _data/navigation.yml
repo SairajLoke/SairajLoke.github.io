@@ -8,6 +8,8 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
+  - title: "Blogs"
+    url: /year-archiv/
 
   - title: "Art and Sport"
     url: /Art and Sport/    
@@ -16,8 +18,8 @@ main:
   - title: "Achievements"
     url: /Achievements/
     
-  - title: "Volunteering and Others"
-    url: /Volunteering and Others/   
+  # - title: "Volunteering and Others"
+  #   url: /Volunteering and Others/   
 
  
 
@@ -26,8 +28,8 @@ main:
       
   - title: "CV"
     url: /files/Resume__SairajLoke__.pdf
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+    
+
     
   # - title: "Guide"
   #   url: /markdown/
