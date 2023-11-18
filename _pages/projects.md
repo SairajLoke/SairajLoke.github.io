@@ -161,7 +161,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/cprof-pluto.png">
+			<img src="/images/cproj-pluto.png">
 		</span>
 	</div>
 	<div class="right">
