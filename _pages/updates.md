@@ -7,14 +7,13 @@ redirect_from:
 ---
 
 <ul style="margin-top:-3px" class="recent_updates" >
-	<li><span class="updates-month">Sept'23</span> 
-        <span class="updates-content"> <b>Demonstrated our Autonomous Lane following and Obstacle Avoiding Car computer Scientist Deepak Phatak, and a number of IIT Bombay Alumni,<a target="_blank" href="https://github.com/SairajLoke/IVDCcar"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> during Tinkerer's Lab Inaugration at IIT Indore<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
-        <!-- <span class="updates-month">IIITH</span>  -->
-    </li>
+ <li>
+  <span class="updates-month">Sept'23</span>
+  <span class="updates-content"> <b>Demonstrated our Autonomous Lane following and Obstacle Avoiding Car computer Scientist Deepak Phatak, and a number of IIT Bombay Alumni,</b><a target="_blank" href="https://github.com/SairajLoke/IVDCcar"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> during Tinkerer's Lab Inaugration at IIT Indore<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
+ </li>
     <li><span class="updates-month">AUG '23</span>
 		<span class="updates-content">1st Aug - 31st , Attended the <b>7<sup>th</sup> Summer School of AI</b><a target="_blank" href="https://cvit.iiit.ac.in/summerschool2023/"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> held online by CVIT-IIIT-H!<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a>
 		</span>
-        <!-- <span class="updates-month">IIITH</span>  -->
     </li>
 </ul>
 
