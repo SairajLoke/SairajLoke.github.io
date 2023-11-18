@@ -27,4 +27,9 @@ List of AI/Robotics Labs ( definitely not exhaustive :wink: )
 
 More resources to be added !
 
+Deep Learning Concepts and Implementation references: 
 
+<p style="text-decoration:underline;"><a href="https://udlbook.github.io/udlbook/">1. Excellent work by Prof.Simon Prince(Univ. of Bath) </a></p>
+<p style="text-decoration:underline;"><a href="https://github.com/ritchieng/the-incredible-pytorch">2. Official Pytorch Repo</a></p>
+
+    
