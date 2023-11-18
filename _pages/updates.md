@@ -11,11 +11,16 @@ redirect_from:
         <span class="updates-content"> <b>Demonstrated our Autonomous Lane following and Obstacle Avoiding Car computer Scientist Deepak Phatak, and a number of IIT Bombay Alumni,<a target="_blank" href="https://github.com/SairajLoke/IVDCcar"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> during Tinkerer's Lab Inaugration at IIT Indore<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
         <!-- <span class="updates-month">IIITH</span>  -->
     </li>
-    <li><span class="updates-month">AUG '23</span> 
-        <span class="updates-content">1st Aug - 31st , Attended the <b>7<sup>th</sup> Summer School of AI</b><a target="_blank" href="https://cvit.iiit.ac.in/summerschool2023/"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> held online by CVIT-IIIT-H!<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
+    <li><span class="updates-month">AUG '23</span>
+		<span class="updates-content">1st Aug - 31st , Attended the <b>7<sup>th</sup> Summer School of AI</b><a target="_blank" href="https://cvit.iiit.ac.in/summerschool2023/"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> held online by CVIT-IIIT-H!<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a>
+		</span>
         <!-- <span class="updates-month">IIITH</span>  -->
     </li>
-	<!-- <li><span class="updates-month">SEP '23</span> <span class="updates-content">Completed my internship at <b>Mila</b> and started my <b>Ph.D. at MIT</b>!</span></li>
+</ul>
+
+
+
+<!-- <li><span class="updates-month">SEP '23</span> <span class="updates-content">Completed my internship at <b>Mila</b> and started my <b>Ph.D. at MIT</b>!</span></li>
 	<li><span class="updates-month">JULY '23</span> <span class="updates-content">"SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping" accepted for presentation at <b>RSS Workshop 2023</b><a target="_blank" href="https://mit-spark.github.io/robotRepresentations-RSS2023/"><img src="/images/link.png" width=18px height=18px style="margin: -7px 5px 0 5px;"></a>!</span></li>
 	<li><span class="updates-month">JUN '23</span> <span class="updates-content">"Disentangling Planning and Control for Non-prehensile Tabletop Manipulation" accepted at <b>CASE 2023</b>!</span></li>
 	<li><span class="updates-month">MAY '23</span> <span class="updates-content">I attended <b>ICRA 2023</b> and acted as the <b>official social media ambassador</b>, posting on behalf of <b>IEEE RAS</b> on their social media channels!<a target="_blank" href="https://twitter.com/ieeeras"><img src="/images/twitter.png" width=18px height=18px style="margin: -5px 0px 0 5px;"></a><a target="_blank" href="https://www.facebook.com/ieee.ras/"><img src="/images/facebook.png" width=18px height=18px style="margin: -5px 0px 0 5px;"></a><a target="_blank" href="https://www.linkedin.com/groups/1888416/"><img src="/images/linkedin.png" width=18px height=18px style="margin: -7px 5px 0 5px;"></a></span></li>
@@ -35,4 +40,3 @@ redirect_from:
 	<li><span class="updates-month">JUN '21</span> <span class="updates-content">"Personalized One-Shot Lipreading for an ALS Patient" accepted at <b>BMVC 2021</b>!</span></li>
 	<li><span class="updates-month">MAR '21</span> <span class="updates-content">Joined Center for Visual Information Technology at IIIT-H as a Research Fellow!</span></li>
 	<li><span class="updates-month">SEP '20</span> <span class="updates-content">I received "Spot Award" for "Innovation and Impact" at Microsoft!</span></li>-->
-</ul>
