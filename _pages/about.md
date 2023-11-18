@@ -11,12 +11,10 @@ redirect_from:
 
 
 <div class="about_image">
-  I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore). 
+  I am a 3rd year Undergraduate student at the Indian Institute of Technology Indore (IIT Indore).
   Currently the Chair of IEEE-RAS IIT Indore Chapter, Head of Autonomy Division IVDC.
   
-  Interests:
-  <br>
+  Interests:<br>
   My interest lies at the intersection of Robotics and Computer Vision to make better machine perception and thereby informed control decisions for achieving a given downstream goal, for example, autonomous navigation.
 
 </div>
-
