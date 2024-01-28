@@ -66,11 +66,31 @@ author_profile: true
 	Completed
 <span>
 
+<!-- Gesture Controlled Car -->
+<div class="research-block mylightgreen">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/kiss_icp_IITIndore_titanium_silicon_pod.mp4">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">SLAM using Ouster 3D Lidar & KISS-ICP in our IIT Indore Campus</div>
+		<div class="sub-title">
+			<a href=""  style="font-family: inherit;color: blue;" >IVDC IIT Indore </a> 
+			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/SLAM">Github</a>
+		</div>
+		<span class="research-text">
+		<ul>
+		  <li> <b>keywords:</b> Ouster 3D Lidar, KISS-ICP, SLAM, ROS2 </li>
+		</ul>
+		</span>
+	</div>
+</div>
 
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/soyimg.jpg">
+			<img src="/images/soyleaf_gan1.gif">
 		</span>
 	</div>
 	<div class="right">
