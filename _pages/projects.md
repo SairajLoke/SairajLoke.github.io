@@ -54,7 +54,7 @@ author_profile: true
 		<span class="research-text">
 			------------------
 		<ul>
-		  <li> <b>keywords:</b>AGV </li>
+		  <li> <b>keywords:</b>AGV, 2d-lidar(rplidar), RGB Camera, GPS, PathPlanner, MPC, Nvidia-Jetson Xavier,ROS1 </li>
 		</ul>
 		</span>
 	</div>
@@ -70,7 +70,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/kiss_icp_IITIndore_titanium_silicon_pod.mp4">
+			<img src="/images/resu_kiss_icp_IITIndore_titanium_silicon_pod.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -114,7 +114,7 @@ author_profile: true
 <div class="research-block mylightgreen">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/cproj-gestcar.png">
+			<img src="/images/resu_gest_cotrolled.gif">
 		</span>
 	</div>
 	<div class="right">
