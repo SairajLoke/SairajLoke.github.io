@@ -32,5 +32,6 @@ Deep Learning Concepts and Implementation references:
 <p style="text-decoration:underline;"><a href="https://udlbook.github.io/udlbook/">1. Excellent work by Prof.Simon Prince(Univ. of Bath) </a></p>
 <p style="text-decoration:underline;"><a href="https://github.com/ritchieng/the-incredible-pytorch">2. Official Pytorch Repo</a></p>
 
-    
+<p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1r86ybWrMgI2QgclXLG4O1pQtavLkwh-oST2gymbKaAo/edit">3. Resources for starting with ROS1/ ROS2 ( Managed by me and my team members at IVDC-IIT Indore) </a></p>
+
 updated 18 Nov. 2023    

@@ -11,8 +11,8 @@ main:
   - title: "Blogs"
     url: /year-archiv/
 
-  - title: "Art and Sport"
-    url: /Art and Sport/    
+  # - title: "Art and Sport"
+  #   url: /Art and Sport/    
   # - title: "Teaching"
   #   url: /teaching/    
   - title: "Achievements"

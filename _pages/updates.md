@@ -8,6 +8,12 @@ redirect_from:
 
 <ul style="margin-top:-3px" class="recent_updates" >
  <li>
+ <li>
+  <span class="updates-month">Oct'23</span>
+  <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a>Started working on a Developing HoloOcean ROS Wrapper at ARL-NTNU<a target="_blank" href="k"><img src="" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
+ </li>
+
+ <li>
   <span class="updates-month">Sept'23</span>
   <span class="updates-content"> <b>Demonstrated our Autonomous Lane following and Obstacle Avoiding Car computer Scientist Deepak Phatak, and a number of IIT Bombay Alumni,</b><a target="_blank" href="https://github.com/SairajLoke/IVDCcar"><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> during Tinkerer's Lab Inaugration at IIT Indore<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk"><img src="/images/cvitthumbnailimg.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
  </li>
