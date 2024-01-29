@@ -52,7 +52,6 @@ author_profile: true
 			<a class="tab_paper" href="">Github</a>
 		</div>
 		<span class="research-text">
-			------------------
 		<ul>
 		  <li> <b>keywords:</b>AGV, 2d-lidar(rplidar), RGB Camera, GPS, PathPlanner, MPC, Nvidia-Jetson Xavier,ROS1 </li>
 		</ul>
