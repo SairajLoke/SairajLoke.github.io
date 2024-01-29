@@ -19,22 +19,22 @@ author_profile: true
 		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
 		<div class="sub-title">
 			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of s
 			<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
 			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>,
 			<a href="https://www.ntnu.edu/employees/mohit.singh"> Mohit Singh</a>
 			<a class="tab_paper" href="https://www.autonomousrobotslab.com/">Lab</a>
 			<a class="tab_paper" href="">Github</a>
 		</div>
-		<span class="research-text">
-		>This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control.
-		-  Developed a ROS wrapper for HoloOcean Simulator.
+		<span class="research-text">1. Developed a ROS wrapper for HoloOcean Simulator.( a latest underwater simulator for which no earlier ros1 wrapper was availabl)
+		2.Working in Depth Estimation and Encoding which will be useful for Navigation Task.s
 		<ul>
-		  <li> <b>keywords:</b> AUV, Path Planning , Obstacle Avoidance,Localisation, Mapping, Sensor Fusion, MPC, ROS, Gazebo, HoloOcean,etc </li>
+		  <li> <b>keywords:</b> AUV, ROS, HoloOcean, VAEs, Sceneflow, Disparity,etc. </li>
 		</ul>
 		</span>
 	</div>
 </div>
+<!-- >This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control. -->
 
 <!-- IGVC -->
 <div class="research-block highlight">
