@@ -169,7 +169,7 @@ body {
 <div class="research-block ">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/drona.png">
+			<img src="/images/drona.gif">
 		</span>
 	</div>
 	<div class="right">
