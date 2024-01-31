@@ -66,7 +66,7 @@ author_profile: true
 <span>
 
 <!-- Gesture Controlled Car -->
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/resu_kiss_icp_IITIndore_titanium_silicon_pod.gif">

@@ -7,10 +7,10 @@ redirect_from:
 ---
 
 <ul style="margin-top:-3px" class="recent_updates" >
- <li>
+ 
  <li>
   <span class="updates-month">Oct'23</span>
-  <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a>Started working on a Developing HoloOcean ROS Wrapper at ARL-NTNU<a target="_blank" href="k"><img src="" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
+  <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a>Started working as a undergraduate intern at ARL-NTNU<a target="_blank" href="k"><img src="" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
  </li>
 
  <li>
