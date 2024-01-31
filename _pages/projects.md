@@ -10,7 +10,7 @@ author_profile: true
 <!-- <body style="background-color:black;"> -->
 <style>
 body {
-  background-image: url('img_girl.jpg');
+  background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
