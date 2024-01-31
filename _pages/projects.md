@@ -8,14 +8,17 @@ author_profile: true
 	Ongoing
 <span>
 <!-- <body style="background-color:black;"> -->
-<style>
+
+<!-- <style>
 body {
   background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-</style>
+</style> -->
+
+
 <!--  NTNU -->
 <div class="research-block highlight">
 	<div class="left">
@@ -161,6 +164,30 @@ body {
 	</div>
 </div>
 
+
+<!-- Drona -->
+<div class="research-block ">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/drona.png">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Python Api for Drona Aviation Pluto Drone</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >IIT Kanpur/ Drona Aviation </a> InterIIT 11.0
+			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023">Github</a>
+		</div>
+		<span class="research-text">
+		<ul>
+		  <li> <b>keywords:</b> OpenCV, Python , API developement , RealDrone, Hardware, PID, Trajectory Tracking</li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+
 <!-- IITI Hub -->
 <div class="research-block ">
 	<div class="left">
@@ -183,28 +210,6 @@ body {
 	</div>
 </div>
 
-
-<!-- Drona -->
-<div class="research-block ">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/cproj-pluto.png">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">Python Api for Drona Aviation Pluto Drone</div>
-		<div class="sub-title">
-			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href=""  style="font-family: inherit;color: blue;" >IIT Kanpur/ Drona Aviation </a> InterIIT 11.0
-			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023">Github</a>
-		</div>
-		<span class="research-text">
-		<ul>
-		  <li> <b>keywords:</b> OpenCV, Python , API developement , RealDrone, Hardware, PID, Trajectory Tracking</li>
-		</ul>
-		</span>
-	</div>
-</div>
 
 
 <!-- Polynomial FFT Hub -->
