@@ -7,7 +7,14 @@ author_profile: true
 <span class="title">
 	Ongoing
 <span>
-<body style="background-color:black;">
+<!-- <body style="background-color:black;"> -->
+body {
+  background-image: url(‘https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg’);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #FFFFFF;
+}
 <!--  NTNU -->
 <div class="research-block highlight">
 	<div class="left">
