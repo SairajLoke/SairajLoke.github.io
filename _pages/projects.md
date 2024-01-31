@@ -7,7 +7,7 @@ author_profile: true
 <span class="title">
 	Ongoing
 <span>
-
+<body style="background-color:black;">
 <!--  NTNU -->
 <div class="research-block highlight">
 	<div class="left">
@@ -86,7 +86,7 @@ author_profile: true
 	</div>
 </div>
 
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/soyleaf_gan1.gif">
@@ -110,7 +110,7 @@ author_profile: true
 </div>
 
 <!-- Gesture Controlled Car -->
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/resu_gest_cotrolled.gif">
@@ -132,7 +132,7 @@ author_profile: true
 </div>
 
 <!-- Lane Following car -->
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/cproj-lfc.webp">
@@ -154,7 +154,7 @@ author_profile: true
 </div>
 
 <!-- IITI Hub -->
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/cproj-iitihub.png">
@@ -177,7 +177,7 @@ author_profile: true
 
 
 <!-- Drona -->
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/cproj-pluto.png">
@@ -200,7 +200,7 @@ author_profile: true
 
 
 <!-- Polynomial FFT Hub -->
-<div class="research-block mylightgreen">
+<div class="research-block ">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/cproj-parafft.png">
