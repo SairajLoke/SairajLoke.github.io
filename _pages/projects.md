@@ -17,6 +17,7 @@ body {
   background-size: cover;
 }
 </style> -->
+Note: There are some private github repo link. Which I'll update after the work is completed.
 
 
 <!--  NTNU -->
@@ -76,7 +77,7 @@ body {
 	Completed
 <span>
 
-<!-- Gesture Controlled Car -->
+<!-- SLAM -->
 <div class="research-block ">
 	<div class="left">
 		<span class="research-img">
@@ -92,6 +93,51 @@ body {
 		<span class="research-text">
 		<ul>
 		  <li> <b>keywords:</b> Ouster 3D Lidar, KISS-ICP, SLAM, ROS2 </li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+
+<!-- Drona -->
+<div class="research-block ">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/drona.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Python Api for Drona Aviation Pluto Drone</div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >IIT Kanpur/ Drona Aviation </a> InterIIT 11.0
+			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023">Github</a>
+		</div>
+		<span class="research-text">
+		<ul>
+		  <li> <b>keywords:</b> OpenCV, Python , API developement , RealDrone, Hardware, PID, Trajectory Tracking</li>
+		</ul>
+		</span>
+	</div>
+</div>
+
+<!-- Gesture Controlled Car -->
+<div class="research-block ">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/resu_gest_cotrolled.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Gesture Contorlled Car (Vision Based) </div>
+		<div class="sub-title">
+			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
+			<a href=""  style="font-family: inherit;color: blue;" >IVDC/Robotics Club IIT Indore </a> 
+			<a class="tab_paper" href="https://github.com/SairajLoke/GestureGo-GestureControlledCar">Github</a>
+		</div>
+		<span class="research-text">
+		<ul>
+		  <li> <b>keywords:</b> TensorFLow, MediaPipe, ESP32, Fast(30fps) </li>
 		</ul>
 		</span>
 	</div>
@@ -120,28 +166,6 @@ body {
 	</div>
 </div>
 
-<!-- Gesture Controlled Car -->
-<div class="research-block ">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/resu_gest_cotrolled.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">Gesture Contorlled Car (Vision Based) </div>
-		<div class="sub-title">
-			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href=""  style="font-family: inherit;color: blue;" >IVDC/Robotics Club IIT Indore </a> 
-			<a class="tab_paper" href="https://github.com/SairajLoke/GestureGo-GestureControlledCar">Github</a>
-		</div>
-		<span class="research-text">
-		<ul>
-		  <li> <b>keywords:</b> TensorFLow, MediaPipe, ESP32, Fast(30fps) </li>
-		</ul>
-		</span>
-	</div>
-</div>
-
 <!-- Lane Following car -->
 <div class="research-block ">
 	<div class="left">
@@ -159,29 +183,6 @@ body {
 		<span class="research-text">
 		<ul>
 		  <li> <b>keywords:</b> OpenCV, LaneFollowing, EdgeComputing </li>
-		</ul>
-		</span>
-	</div>
-</div>
-
-
-<!-- Drona -->
-<div class="research-block ">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/drona.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">Python Api for Drona Aviation Pluto Drone</div>
-		<div class="sub-title">
-			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
-			<a href=""  style="font-family: inherit;color: blue;" >IIT Kanpur/ Drona Aviation </a> InterIIT 11.0
-			<a class="tab_paper" href="https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023">Github</a>
-		</div>
-		<span class="research-text">
-		<ul>
-		  <li> <b>keywords:</b> OpenCV, Python , API developement , RealDrone, Hardware, PID, Trajectory Tracking</li>
 		</ul>
 		</span>
 	</div>
