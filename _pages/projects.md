@@ -17,7 +17,7 @@ body {
   background-size: cover;
 }
 </style> -->
-Note: There are some private github repo link. Which I'll update after the work is completed.
+Note: There are some private github repo link that I'll update after the work is completed.
 
 
 <!--  NTNU -->
