@@ -8,6 +8,10 @@ redirect_from:
 
 <ul style="margin-top:-3px" class="recent_updates" >
 	<li>
+		<span class="updates-month">April'24</span>
+		<span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a>Selected for the ThinkSwiss Swissex Scholarship 2024!, I'll be joining prof. Stefano at ERL-ETHZ!<a target="_blank" href="k"><img src="images/swissnexthumbnail.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
+	</li>
+	<li>
 		<span class="updates-month">Jan'24</span>
 		<span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a>Selected for the iQuHACK MIT event 2024!<a target="_blank" href="k"><img src="" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span>
 	</li>
