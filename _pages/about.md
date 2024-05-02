@@ -16,8 +16,10 @@ redirect_from:
   <br>
   Currently an Intern at <a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of <a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a>
 
-  I will be joining <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html"> Prof. Stefano Mintchev's Environmental Robotics Lab at ETH Zurich </a> to work on "Visual Estimation of Tree Canopy Rigidity" this Fall-2024 supported by Swissnex ThinkSwiss Scholarship.
+  <br>
+  I will be joining <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" style="font-family: inherit;color: blue;"> Prof. Stefano Mintchev's Environmental Robotics Lab at ETH Zurich </a> to work on "Visual Estimation of Tree Canopy Rigidity" this Fall-2024 supported by Swissnex ThinkSwiss Scholarship.
 
+  <br>
   I have prevously worked under guidance of <a href="https://www.iiti.ac.in/people/~artiwari/">Prof. Aruna Tiwari </a> for Data Augmentation using GANs.
 
   <br>
