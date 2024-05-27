@@ -15,11 +15,11 @@ redirect_from:
   I am a 3rd year Undergraduate, studying Computer Science and Engineering at the Indian Institute of Technology Indore (IIT Indore).
   <br>
   <br>
-  Working on robot perception and planning with the team at <a href="https://www.autonomousrobotslab.com/"  ; style="font-family:  inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
-  <a href="http://www.kostasalexis.com/" ;  style="font-family: inherit;color: blue;">Prof.Kostas Alexis </a>
+  Working on robot perception and planning with the team at <a href="https://www.autonomousrobotslab.com/" style="font-family:  inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
+  <a href="http://www.kostasalexis.com/"  style="font-family: inherit;color: blue;">Prof.Kostas Alexis </a>
 
   <br>
-  I will be joining <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" ; style="font-family: inherit;color: blue;"> Prof. Stefano Mintchev's</a> <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html"; style="font-family: inherit; ">Environmental Robotics Lab </a> at ETH Zurich, to work on "Visual Estimation of Tree Canopy Rigidity" this Fall-2024 supported by the Swissnex ThinkSwiss Scholarship.
+  I will be joining <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" style="font-family: inherit;color: blue;"> Prof. Stefano Mintchev's</a> <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" style="font-family: inherit; ">Environmental Robotics Lab </a> at ETH Zurich, to work on "Visual Estimation of Tree Canopy Rigidity" this Fall-2024 supported by the Swissnex ThinkSwiss Scholarship.
 
   <br>
   I have prevously worked under guidance of <a href="https://www.iiti.ac.in/people/~artiwari/" style="font-family: inherit;color: blue;">Prof. Aruna Tiwari </a> for Data Augmentation using GANs.
