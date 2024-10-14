@@ -11,7 +11,7 @@ author_profile: true
 
 <style>
 body {
-  background-image: SairajLoke.github.io/images/rohtank1.jpeg;
+  background-image: url("https://github.com/SairajLoke/SairajLoke.github.io/blob/master/images/rohtank1.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
