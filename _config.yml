@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "profile-1.jpg"
-  bio              : "3rd year Undergrad at IIT Indore"
+  bio              : "4th year Undergrad at IIT Indore"
   location         : "Indore, India"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -260,7 +260,12 @@ defaults:
   - scope:
       path: ""
       type: talks
-    values:
+    values:<li>
+		<span class="updates-month">April'24</span>
+		<!-- <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> -->
+		ETH Zurich it is !<a target="_blank" href="https://drive.google.com/file/d/16u67ZL9ry10n3HKvIO11LV0Y5Jl-YuPs/view?usp=sharing"><img src="/images/swissnexthumbnail.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a>
+		<!-- </span> -->
+	</li>
       layout: talk
       author_profile: true
       share: true

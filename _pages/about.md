@@ -12,9 +12,10 @@ redirect_from:
 
 <div class="about_image">
 
-  I am a 3rd year Undergraduate, studying Computer Science and Engineering at the Indian Institute of Technology Indore (IIT Indore).
+  I am a 4th year undergraduate, studying Computer Science and Engineering at the Indian Institute of Technology Indore (IIT Indore).
   <br>
   <br>
+  
   Working on robot perception and planning with the team at <a href="https://www.autonomousrobotslab.com/" style="font-family:  inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
   <a href="http://www.kostasalexis.com/"  style="font-family: inherit;color: blue;">Prof.Kostas Alexis </a>
 
@@ -28,6 +29,7 @@ redirect_from:
   <br>
   My interest lies at the intersection of Robotics and Computer Vision to make better machine perception and thereby making informed control decisions for achieving a given downstream goal, such as autonomous navigation.
   
+  <br>
   <br>
   Currently the Chair of IEEE-RAS IIT Indore Chapter, Ex-Head of Autonomy Division IVDC student club.
 

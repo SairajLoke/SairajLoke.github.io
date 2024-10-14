@@ -25,7 +25,7 @@ Check these out -
 
 1. <p style="text-decoration:underline;"><a href="https://docs.google.com/spreadsheets/d/1lSrPJwPdFsIUikO5_NYmVx_mnNfrGpi8U8QMsvOM_gI/edit?usp=sharing ">List of 3rd/4th yr internships (definitely not exhaustive ) </a></p>
 
-2. <p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1r86ybWrMgI2QgclXLG4O1pQtavLkwh-oST2gymbKaAo/edit">3. Resources for starting with ROS1/ ROS2 ( Managed by me and my team members at IVDC-IIT Indore) </a></p>
+2. <p style="text-decoration:underline;"><a href="https://docs.google.com/document/d/1r86ybWrMgI2QgclXLG4O1pQtavLkwh-oST2gymbKaAo/edit"> Resources for starting with ROS1/ ROS2 ( Managed by me and my team members at IVDC-IIT Indore) </a></p>
 
 
 
@@ -35,4 +35,4 @@ Check these out -
 <p style="text-decoration:underline;"><a href="https://github.com/ritchieng/the-incredible-pytorch">2. Official Pytorch Repo</a></p> -->
 
 
-updated 18 Nov. 2023    
+<!-- updated 18 Nov. 2023     -->

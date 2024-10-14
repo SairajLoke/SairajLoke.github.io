@@ -7,16 +7,16 @@ author_profile: true
 <span class="title">
 	Ongoing
 <span>
-<!-- <body style="background-color:black;"> -->
+<body style="background-color:black;">
 
-<!-- <style>
+<style>
 body {
   background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-</style> -->
+</style>
 
 Note: There are some private github repo link that I'll update after the work is completed.
 

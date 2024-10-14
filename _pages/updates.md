@@ -13,12 +13,6 @@ redirect_from:
 		Selected for the ThinkSwiss Swissex Scholarship 2024!, I'll be joining prof. Stefano's Lab at ETHZ!<a target="_blank" href="https://drive.google.com/file/d/16u67ZL9ry10n3HKvIO11LV0Y5Jl-YuPs/view?usp=sharing"><img src="/images/swissnexthumbnail.png" width=28px height=28px style="margin: -3px 5px 0 5px;"></a>
 		<!-- </span> -->
 	</li>
-	<!-- <li> -->
-		<!-- <span class="updates-month">Jan'24</span> -->
-		<!-- <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> -->
-		<!-- Selected for the iQuHACK MIT event 2024! -->
-		<!-- <a target="_blank" href="k"><img src="" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span> -->
-	<!-- </li> -->
 	<li>
 		<span class="updates-month">Oct'23</span>
 		<!-- <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> -->
@@ -35,6 +29,12 @@ redirect_from:
     </li>
 </ul>
 
+<!-- <li> -->
+<!-- <span class="updates-month">Jan'24</span> -->
+<!-- <span class="updates-content"> <b></b><a target="_blank" href=""><img src="/images/link.png" width=18px height=18px style="margin: -7px 0 0 5px;"></a> -->
+<!-- Selected for the iQuHACK MIT event 2024! -->
+<!-- <a target="_blank" href="k"><img src="" width=28px height=28px style="margin: -3px 5px 0 5px;"></a></span> -->
+<!-- </li> -->
 
 
 <!-- <li><span class="updates-month">SEP '23</span> <span class="updates-content">Completed my internship at <b>Mila</b> and started my <b>Ph.D. at MIT</b>!</span></li>
