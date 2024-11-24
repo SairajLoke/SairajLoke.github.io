@@ -9,7 +9,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
   - title: "Blogs"
-    url: /_pages/blog.html
+    url: /blogs/
 
   # - title: "Art and Sport"
   #   url: /Art and Sport/    
