@@ -7,42 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 layout: single
+---
 
---- 
+Currently working on Vision and Audio Solutions at <a href="https://research.samsung.com/sri-n">Samsung R&D India</a>.
 
-
-<!-- <div class="about_image"> -->
-
-Currently working on Vision and Audio Solutions at [Samsung R&D India](https://research.samsung.com/sri-n).
-
-Previously worked on vision-based estimation of tree canopy rigidity at [ETH Zurich](https://ethz.ch/) (Environmental Robotics Lab), supported by the [Swissnex ThinkSwiss Scholarship](https://www.swissnex.org/india/thinkswiss/).
+Worked on vision-based estimation of tree canopy rigidity at 
+<a href="https://www.wsl.ch/en/about-wsl/organisation/research-units/biodiversity-and-conservation-biology/community-ecology/environmental-robotics-lab/">Environmental Robotics Lab - ETH Zurich, supported by the 
+<a href="https://www.swissnex.org/india/thinkswiss/">Swissnex ThinkSwiss Scholarship</a>.
 
 My interests span robotics and computer vision for autonomous systems.
 
-Previously part of the IVDC Club at [IIT Indore](https://github.com/IVDC-Club-IIT-Indore).
-
-  <!-- I am a 4th year undergraduate, studying Computer Science and Engineering at the Indian Institute of Technology Indore (IIT Indore).
-  <br>
-  <br>
-  
-  Working on robot perception and planning with the team at <a href="https://www.autonomousrobotslab.com/" style="font-family:  inherit;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of 
-  <a href="http://www.kostasalexis.com/"  style="font-family: inherit;color: blue;">Prof.Kostas Alexis </a>
-
-  <br>
-  I will be joining <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" style="font-family: inherit;color: blue;"> Prof. Stefano Mintchev's</a> <a href="https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html" style="font-family: inherit; ">Environmental Robotics Lab </a> at ETH Zurich, to work on "Visual Estimation of Tree Canopy Rigidity" this Fall-2024 supported by the Swissnex ThinkSwiss Scholarship.
-
-  <br>
-  I have prevously worked under guidance of <a href="https://www.iiti.ac.in/people/~artiwari/" style="font-family: inherit;color: blue;">Prof. Aruna Tiwari </a> for Data Augmentation using GANs.
-
-  <br>
-  <br>
-  My interest lies at the intersection of Robotics and Computer Vision to make better machine perception and thereby making informed control decisions for achieving a given downstream goal, such as autonomous navigation.
-  
-  <br>
-  <br>
-  Currently the Chair of IEEE-RAS IIT Indore Chapter, Ex-Head of Autonomy Division IVDC student club. -->
-
-  
-
-
-<!-- </div> -->
+Previously part of the <a href="https://github.com/IVDC-Club-IIT-Indore"> IVDC Club </a> at IIT Indore.

@@ -54,7 +54,6 @@ body {
 
 
 
-
 <!-- SLAM -->
 <div class="research-block ">
 	<div class="left">
