@@ -15,8 +15,9 @@ redirect_from:
 		<span class="updates-month">Apr’24:</span>
 		Selected for the ThinkSwiss Scholarship 2024! Joined Prof. Stefano Mintchev’s Lab at ETH Zurich.
 		<a target="_blank" href="https://drive.google.com/file/d/16u67ZL9ry10n3HKvIO11LV0Y5Jl-YuPs/view?usp=sharing">
-			<img src="/images/thumbnail-thesis.png" width="32" height="32" style="margin: -3px 5px 0 5px;">
-		</a>
+			<img src="/images/thumbnail_thesis.png" > 
+			<!-- width="32" height="32" style="margin: -3px 5px 0 5px;" -->
+		</a> 
 	</li>
 	<li>
 		<span class="updates-month">Sep’23:</span>
@@ -25,7 +26,8 @@ redirect_from:
 			<img src="/images/link.png" width="18" height="18" style="margin: -7px 0 0 5px;">
 		</a>
 		<a target="_blank" href="https://github.com/SairajLoke/IVDCcar/blob/main/README.md">
-			<img src="/images/cvitthumbnailimg.png" width="32" height="32" style="margin: -3px 5px 0 5px;">
+			<img src="/images/thumbnail_ivdc_car.png" >
+			<!-- width="32" height="32" style="margin: -3px 5px 0 5px;" -->
 		</a>
 	</li>
 	<li>
@@ -35,7 +37,8 @@ redirect_from:
 			<img src="/images/link.png" width="18" height="18" style="margin: -7px 0 0 5px;">
 		</a>
 		<a target="_blank" href="https://drive.google.com/file/d/1G9SoU-hXqJALghL9MEWWQoezyBrY2mVx/view?usp=drivesdk">
-			<img src="/images/cvitthumbnailimg.png" width="32" height="32" style="margin: -3px 5px 0 5px;">
+			<img src="/images/cvitthumbnailimg.png" >
+			<!-- width="32" height="32" style="margin: -3px 5px 0 5px;" -->
 		</a>
 	</li>
 </ul>
