@@ -4,9 +4,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-<span class="title">
-	Ongoing
-<span>
+<!-- <span class="title">
+	
+<span> -->
 <!-- <body style="background-color:black;"> -->
 
 <style>
@@ -18,10 +18,43 @@ body {
 }
 </style>
 
-Note: There are some private github repo link that I'll update after the work is completed.
+<!-- Note: There are some private github repo link that I'll update after the work is completed. -->
 
+<!--  ETHZ -->
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/thesis-setup-pic.png">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">B.Tech. Thesis | VEBLoC - Visual Estimation of Branch Loading Capacity </div>
+		<div class="sub-title">
+			<a href="https://www.wsl.ch/en/about-wsl/organisation/research-units/biodiversity-and-conservation-biology/community-ecology/environmental-robotics-lab/"  style="font-family: inherit;color: blue;" >Environmental Robotics Lab (ERL)</a> under guidance of 
+			<a href="https://typolive03.wsl.ch/de/mitarbeitende/mintchev/">Prof. Stefano Mintchev </a> along with 
+			<a href="https://www.researchgate.net/profile/Christian-Geckeler">Christian geckeler</a>,
+			<a class="tab_paper" href="https://docs.google.com/presentation/d/1qT651ZMCrr7-adtwwoTOzQLqdYE1gUeq/">Presentation</a>
+		</div>
+		<span class="research-text">
+			<ul>
+				<li>
+				Designed a novel scene flow (3D optical flow) based end-to-end perception pipeline to estimate tree-branch load capacity and associated uncertainty, enabling safe sensor deployment.
+				</li>
+				<li>
+				Built a lab testbed emulating field conditions to capture RGB-D data from a downward-facing camera on a hovering drone, analyzing tree-branch oscillations induced by drone downwash.
+				</li>
+				<li>
+				Presented results showcasing performance on 3 reference branches.
+				</li>
+				<li>
+				<b>Keywords:</b> Optical Flow, PyTorch, Drone, Loading Capacity.
+				</li>
+			</ul>
+		</span>
+	</div>
+</div>
 
-<!--  NTNU -->
+ <!-- NTNU
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
@@ -31,7 +64,6 @@ Note: There are some private github repo link that I'll update after the work is
 	<div class="right">
 		<div class="title">Autonomous Underwater Vehicle in Uncertainity Prone Environments</div>
 		<div class="sub-title">
-			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
 			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit;color: blue;" >NTNU-Autonomous Robotics Lab, Norway </a> under guidance of s
 			<a href="http://www.kostasalexis.com/">Prof.Kostas Alexis </a> along with 
 			<a href="https://www.ntnu.edu/employees/mihir.dharmadhikari">Mihir Dharmadhikari</a>,
@@ -46,11 +78,11 @@ Note: There are some private github repo link that I'll update after the work is
 		</ul>
 		</span>
 	</div>
-</div>
+</div> -->
 <!-- >This projects inovlves ,initially transferring the Autonomy Stack (from Aerial Vehicles to current Remotely Operated Underwater Vehicles) Work on transfering our aerial autonomy stack onto an underwater ROV to operate on the basis of fusing multi-camera and IMU data for localization, depth mapping, control. -->
 
 <!-- IGVC -->
-<div class="research-block highlight">
+<!-- <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/igvc.png">
@@ -59,7 +91,6 @@ Note: There are some private github repo link that I'll update after the work is
 	<div class="right">
 		<div class="title">International Ground Vehicle Competition</div>
 		<div class="sub-title">
-			<!-- <b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a> -->
 			<a href="https://www.autonomousrobotslab.com/"  style="font-family: inherit ; color: blue;" >IIT Indore </a> under guidance of 
 			<a href="http://www.kostasalexis.com/">Devendra Deshmukh </a> in a team of ~25 students
 			<a class="tab_paper" href="">Github</a>
@@ -70,7 +101,7 @@ Note: There are some private github repo link that I'll update after the work is
 		</ul>
 		</span>
 	</div>
-</div>
+</div> -->
 
 
 <!-- RuTAG -->

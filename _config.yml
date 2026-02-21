@@ -82,12 +82,12 @@ analytics:
 author:
   name             : ""
   avatar           : "profile-1.jpg"
-  bio              : "4th year Undergrad at IIT Indore"
-  location         : "Indore, India"
+  bio              : "RnD Engineer @ Samsung | CSE @ IIT Indore"
+  location         : "Noida, India"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "cse210001035@iiti.ac.in"
+  email            :  "lokesairaj05@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sairaj-loke-24370b237/"
+  linkedin         : "sairaj-loke-24370b237/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

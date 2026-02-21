@@ -12,7 +12,15 @@ redirect_from:
 
 <div class="about_image">
 
-  I am a 4th year undergraduate, studying Computer Science and Engineering at the Indian Institute of Technology Indore (IIT Indore).
+Currently working on Vision and Audio Solutions at [Samsung R&D India](https://research.samsung.com/sri-n).
+
+Previously worked on vision-based estimation of tree canopy rigidity at [ETH Zurich](https://ethz.ch/) (Environmental Robotics Lab), supported by the [Swissnex ThinkSwiss Scholarship](https://www.swissnex.org/india/thinkswiss/).
+
+My interests span robotics and computer vision for autonomous systems.
+
+Previously part of the IVDC Club at [IIT Indore](https://github.com/IVDC-Club-IIT-Indore).
+
+  <!-- I am a 4th year undergraduate, studying Computer Science and Engineering at the Indian Institute of Technology Indore (IIT Indore).
   <br>
   <br>
   
@@ -31,7 +39,7 @@ redirect_from:
   
   <br>
   <br>
-  Currently the Chair of IEEE-RAS IIT Indore Chapter, Ex-Head of Autonomy Division IVDC student club.
+  Currently the Chair of IEEE-RAS IIT Indore Chapter, Ex-Head of Autonomy Division IVDC student club. -->
 
   
 
