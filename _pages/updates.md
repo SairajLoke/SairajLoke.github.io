@@ -9,7 +9,7 @@ redirect_from:
 <ul class="recent_updates" style="margin-top:-3px">
 	<li>
 		<span class="updates-month">Jun’25:</span>
-		Joined the Vision and Audio Team at Samsung Research and Development Institute, India (Noida).
+		Joined Vision & Audio Team at Samsung Research & Development Institute, India (Noida).
 	</li>
 	<li>
 		<span class="updates-month">Apr’24:</span>
@@ -23,7 +23,7 @@ redirect_from:
 		<span class="updates-month">Sep’23:</span>
 		<b>Demonstrated our Autonomous Lane-Following and Obstacle-Avoiding Car</b> to Computer Scientist Deepak Phatak and IIT Bombay alumni during the Tinkerer's Lab Inauguration at IIT Indore.
 		<a target="_blank" href="https://github.com/SairajLoke/IVDCcar">
-			<img src="/images/link.png" width="18" height="18" style="margin: -7px 0 0 5px;">
+			<img src="/images/thumbnail_git.png" width="18" height="18" style="margin: -7px 0 0 5px;">
 		</a>
 		<a target="_blank" href="https://github.com/SairajLoke/IVDCcar/blob/main/README.md">
 			<img src="/images/thumbnail_ivdc_car.png" >
