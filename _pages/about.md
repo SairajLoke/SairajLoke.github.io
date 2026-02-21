@@ -6,11 +6,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: single
 
 --- 
 
 
-<div class="about_image">
+<!-- <div class="about_image"> -->
 
 Currently working on Vision and Audio Solutions at [Samsung R&D India](https://research.samsung.com/sri-n).
 
@@ -44,4 +45,4 @@ Previously part of the IVDC Club at [IIT Indore](https://github.com/IVDC-Club-II
   
 
 
-</div>
+<!-- </div> -->
