@@ -1,0 +1,192 @@
+---
+permalink: /blogs/origami-trex-approach/
+title: "My Blog Post Title Goes Here"
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simpledotcss/2.3.7/simple.min.css">
+  <style>
+    /* Small tweaks on top of Simple.css — keep edits here minimal */
+    body { max-width: 760px; }
+    figure { margin: 2rem 0; }
+    figure img, figure video { width: 100%; border-radius: 6px; }
+    figcaption { text-align: center; font-size: 0.9rem; opacity: 0.75; margin-top: 0.4rem; }
+    .meta { opacity: 0.7; font-size: 0.95rem; }
+    .two-col { display: flex; gap: 1.2rem; flex-wrap: wrap; }
+    .two-col figure { flex: 1 1 280px; margin: 1rem 0; }
+    nav.back a { text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <nav class="back"><a href="{{ '/blogs/' | relative_url }}">&larr; back to blogs</a></nav>
+
+  <header>
+    <h1> Training robots to fold paper planes! - Attempt 1</h1>
+    <p class="meta">Sairaj Loke & Kshitij Bhat &middot; 30th Sept 2026</p>
+    <p>Compiling our approach + learnings + results for IROS-2026 origmai challenge -https://robotic-origami-challenge.github.io/ </p>
+  </header>
+
+  <main>
+
+    <section>
+      <h2>Motivation</h2>
+      <p> 
+        <br>
+        So the task is simple (ofcourse for humans only yet) - to fold a 15x15 origami Tant paper to a paper airplane.
+        A lot more challenging for a robot given the multi-modal observation dependency, precise manipulation requirements, a lot of occlusion, and contact rich nature of this task.
+        Clearly visible from the videos above ( teleop vs what our best policy could run).
+
+      </p>
+    </section>
+
+      <section>
+      <h2>Problem setup</h2>
+      <p> 
+        <br>
+        We are provided Sharpa wave teleop data (550+ episodes of 3-4 mins each) for the competition-set.
+        Modalities include RGB-Head-Left/Right, Wrist-Left/Right, tactile(fxfyfzTxTyTz), joint-torques, tactile-images(raw+deformation).
+        Action were 65 dim vectors corresponding to the 65 robot joints.
+      </p>
+    </section>
+     
+
+    <section>
+      <h2>Things we did</h2>
+      <p>
+        <br>
+        We mainly experimented the capabilities and limitations of existing works name ViTacFormer - https://roboverseorg.github.io/ViTacFormerPage/ 
+        and T-Rex - https://tactile-reactive-dexterous.github.io/ robotics policies over this task of folding a origami paper using sharpa robot.
+        
+        <br><br> We also did some modifications to the existing architecture in hopes of improving it, including : <br>
+        1. Handling degenerate action dimensions. <br>
+        2. Incorporating temporal attention in non-linear window as a proxy for short-term memory (with the intention to handle occlusion). <br>
+        3. Experimented with different actions prediction techniques (delta actions, absolute actions, hybrid,  ) <br>
+        4. Found possible flaws in existing architectures ( shortcut learning in ViTacFormer).<br><br>
+
+        One thing to note is the our validations before testing were done on measuring deviation from actual teleop runs from the validation datasets.
+        Thus doesn't reflect the capability of the trained model but given we didn't have any actual robot / paper folding simulation this was our only resort.
+        
+      </p>
+
+      <!-- <figure>
+        <img src="{{ '/images/blog/origami-trex-approach/architecture-placeholder.png' | relative_url }}" alt="architecture diagram placeholder">
+        <figcaption>REPLACE ME: architecture diagram caption</figcaption>
+      </figure> -->
+    </section>
+
+     <section>
+      <h2>1. ViTacFormer</h2>
+      <p>
+        <br>
+        This was the first policy we adapted to the origami task given it had already worked with sharpa robot albeit on different tasks.
+        <br><br>
+        In brief vitacformer itself adpats the pi0 policy to work with extra inputs of tactile.
+
+        <br><br>
+        Limitations we found: It lacks any language encoder hence lacks any ability to incorporate any task prior using language.
+
+        <br><br>
+        Possible flawsin plain architecture: 
+        <br>1. When current state is passed as one of the inputs it clearly performs shortcut learning, or more formally showcases what is known as causal-confusion where the cause of predicted actions is incorrectly deduced from the input actions.
+        Thus is clearly evident in the plots + video below where the policy we tested on real robot clearly does perform paper folding actions even when the paper is not even grasped. Thus associating current state to next state disregarding image modality.
+
+        We were excited to see the predicts close to ground truth ( which we were also skeptical of) until we saw the real-robot run on - DATE?
+        
+        <br><br>This was also evidient in the ablation we did of trained ViTacFormer.Adding large noise in state affects the output MSE by over 400% while noising image only affects by 4% eventho the tokens pertaining to visual domain are lotmore than state tokens.
+
+        TO ADD: OUR SUBMISSION VIDEOS + PLOTS + ABLATIONS.
+
+        <br><br>We also moved on to T-Rex which we found in later half of August over ViTacFormer given better encoders and overall architecture.
+        
+      </p>
+
+      <!-- <figure>
+        <img src="{{ '/images/blog/origami-trex-approach/architecture-placeholder.png' | relative_url }}" alt="architecture diagram placeholder">
+        <figcaption>REPLACE ME: architecture diagram caption</figcaption>
+      </figure> -->
+
+    </section>
+
+    <section>
+      <h2>2. T-Rex</h2>
+      <p>
+        <br>
+        Tested on Sharpa robot again, T-Rex is a flow-matching based policy that uses slow KV-cache(involving vision + text tokens) 
+        to be attended over by fast queries(of actions/tactiles in fast phase.) 
+
+        <br><br>
+        Recent papers like [ list of pprs ]. have moved on to flow-matching approaches given ...FIND THE EXACT REASON.........
+
+        It was honestly a bit late by the time we started experimenting with T-Rex (already a week into Sept).
+        <br><br> Our base policy predicted absolute position we 
+      </p>
+
+      <!-- <figure>
+        <img src="{{ '/images/blog/origami-trex-approach/architecture-placeholder.png' | relative_url }}" alt="architecture diagram placeholder">
+        <figcaption>REPLACE ME: architecture diagram caption</figcaption>
+      </figure> -->
+      
+    </section>
+
+    <section>
+      <h2>Runs</h2>
+      <p>REPLACE ME: what you're showing in the run video(s) below.</p>
+
+      <figure>
+        <video controls>
+          <source src="{{ '/images/blog/origami-trex-approach/run-demo-placeholder.mp4' | relative_url }}" type="video/mp4">
+        </video>
+        <figcaption>REPLACE ME: run video caption</figcaption>
+      </figure>
+    </section>
+
+    <section>
+      <h2>Results</h2>
+      <p>REPLACE ME: what the numbers / plots show.</p>
+
+      <figure>
+        <img src="{{ '/images/blog/origami-trex-approach/loss-curve-placeholder.png' | relative_url }}" alt="loss curve placeholder">
+        <figcaption>REPLACE ME: loss curve caption</figcaption>
+      </figure>
+
+      <div class="two-col">
+        <figure>
+          <img src="{{ '/images/blog/origami-trex-approach/results-placeholder-1.png' | relative_url }}" alt="result placeholder 1">
+          <figcaption>REPLACE ME: result 1</figcaption>
+        </figure>
+        <figure>
+          <img src="{{ '/images/blog/origami-trex-approach/results-placeholder-2.png' | relative_url }}" alt="result placeholder 2">
+          <figcaption>REPLACE ME: result 2</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section>
+      <h2>Conclusion</h2>
+      <p>REPLACE ME: what worked, what the takeaway is.</p>
+    </section>
+
+    <section>
+      <h2>Mistakes</h2>
+      <p>REPLACE ME: what you'd do differently, what cost you time.</p>
+    </section>
+
+    <section>
+      <h2>Future plans</h2>
+      <p>REPLACE ME: what's next.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p class="meta"><a href="{{ '/blogs/' | relative_url }}">&larr; back to blogs</a></p>
+  </footer>
+
+</body>
+</html>
