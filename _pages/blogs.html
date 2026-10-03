@@ -1,26 +1,45 @@
 ---
 permalink: /blogs/
+title: "Blogs"
 excerpt: "Blogs"
 author_profile: true
 redirect_from:
   - /blogs.html
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Blogs</title>
-</head>
-<body>
-    <h2>Posts</h2>
-    <ul>
-        <li><a href="/blogs/origami-trex-approach/">My Blog Post Title Goes Here</a></li>
-    </ul>
+<style>
+  .post-list { list-style: none; margin: 0; padding: 0; }
+  .post-item { display: flex; gap: 1rem; align-items: center; margin: 0 0 1.5rem 0; }
+  .post-item > a:first-child { flex: none; line-height: 0; }
+  .post-item img { width: 140px; height: 100px; object-fit: cover; border-radius: 6px; flex: none; }
+  .post-item .post-title { font-size: 1.1rem; font-weight: 600; }
+  .post-item .post-meta { margin: 0.2rem 0 0 0; font-size: 0.85rem; opacity: 0.7; }
+</style>
 
-    <!-- <h1>Visit My Medium Blog</h1> -->
-    <!-- <p>Check out my Medium blog for more articles and updates:</p> -->
-    <a href="https://medium.com/@lokesairaj09" target="_blank">Medium Blogs</a>
-</body>
-</html>
+<h2>Posts</h2>
+
+<ul class="post-list">
+  <li class="post-item">
+    <a href="/blogs/Training-robots-to-fold-paper-planes-Attempt-1/">
+      <img src="/files/ori-content/robot-folding-paper.jpeg" alt="Training robots to fold paper planes thumbnail">
+    </a>
+    <div>
+      <a class="post-title" href="/blogs/Training-robots-to-fold-paper-planes-Attempt-1/">Training robots to fold paper planes! - Attempt 1</a>
+      <p class="post-meta">30th Sept 2026 &middot; IROS-2026 Origami Challenge</p>
+    </div>
+  </li>
+</ul>
+
+<h2><a href="https://medium.com/@lokesairaj09" target="_blank" rel="noopener">Medium Blogs</a></h2>
+
+<ul class="post-list">
+  <li class="post-item">
+    <a href="https://medium.com/@lokesairaj09/thinkswiss-research-application-faqs-b5cc6a8d92b6" target="_blank" rel="noopener">
+      <img src="/images/blog/thinkswiss-faqs-thumb.png" alt="ThinkSwiss Research Application FAQs thumbnail">
+    </a>
+    <div>
+      <a class="post-title" href="https://medium.com/@lokesairaj09/thinkswiss-research-application-faqs-b5cc6a8d92b6" target="_blank" rel="noopener">ThinkSwiss Research Application FAQs</a>
+      <p class="post-meta">22nd Nov 2024 &middot; Medium</p>
+    </div>
+  </li>
+</ul>
