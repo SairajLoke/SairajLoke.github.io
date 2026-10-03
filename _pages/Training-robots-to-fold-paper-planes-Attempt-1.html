@@ -1,5 +1,5 @@
 ---
-permalink: /blogs/origami-trex-approach/
+permalink: /blogs/Training-robots-to-fold-paper-planes-Attempt-1/
 title: "Training robots to fold paper planes! - Attempt 1"
 layout: null
 ---
@@ -12,32 +12,63 @@ layout: null
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simpledotcss/2.3.7/simple.min.css">
   <style>
     /* Small tweaks on top of Simple.css — keep edits here minimal */
-    body { max-width: 760px; }
     figure { margin: 2rem 0; }
     figure img, figure video { width: 100%; border-radius: 6px; }
     figcaption { text-align: center; font-size: 0.9rem; opacity: 0.75; margin-top: 0.4rem; }
     .meta { opacity: 0.7; font-size: 0.95rem; }
     .two-col { display: flex; gap: 1.2rem; flex-wrap: wrap; }
     .two-col figure { flex: 1 1 280px; margin: 1rem 0; }
+    nav.back { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
     nav.back a { text-decoration: none; }
+    .repo-links { display: flex; gap: 0.5rem; }
+    .repo-links a { font-size: 0.8rem; padding: 2px 10px; border: 1px solid currentColor; border-radius: 999px; opacity: 0.75; }
+    .repo-links a:hover { opacity: 1; }
+    .video-row { display: flex; gap: 1rem; margin: 2rem 0; }
+    .video-row figure { flex: 1 1 0; min-width: 0; margin: 0; }
+    .video-row video { aspect-ratio: 1 / 1; object-fit: contain; background: #000; }
+    @media (max-width: 520px) { .video-row { flex-direction: column; } }
+    .speed { position: relative; line-height: 0; }
+    .speed::after { content: "1x"; position: absolute; top: 8px; right: 8px; padding: 2px 8px; border-radius: 4px; background: rgba(0,0,0,0.65); color: #fff; font-size: 0.8rem; font-weight: 700; line-height: 1.4; pointer-events: none; }
   </style>
 </head>
 <body>
 
-  <nav class="back"><a href="{{ '/blogs/' | relative_url }}">&larr; back to blogs</a></nav>
+  <nav class="back">
+    <a href="{{ '/blogs/' | relative_url }}">&larr; back to blogs</a>
+    <span class="repo-links">
+      <a href="https://github.com/SairajLoke/ori" target="_blank" rel="noopener">Our ViTacFormer code &nearr;</a>
+      <a href="https://github.com/KshitijBhat/origami_trex/tree/dev/all_absolute" target="_blank" rel="noopener">Our T-Rex code &nearr;</a>
+    </span>
+  </nav>
 
   <header>
     <h1> Training robots to fold paper planes! - Attempt 1</h1>
     <p class="meta">Sairaj Loke & Kshitij Bhat &middot; 30th Sept 2026</p>
-    <p>Compiling our approach + learnings + results for IROS-2026 origmai challenge -https://robotic-origami-challenge.github.io/ </p>
+    <p>Compiling our approach + learnings + results for IROS-2026 origmai challenge - <a href="https://robotic-origami-challenge.github.io/" target="_blank" rel="noopener">robotic-origami-challenge.github.io</a></p>
   </header>
 
   <main>
 
+    <div class="video-row">
+      <figure>
+        <div class="speed"><video controls>
+          <source src="/files/ori-content/competition-set-sample.mp4" type="video/mp4">
+        </video></div>
+        <figcaption> Teleoperated Dataset sample</figcaption>
+      </figure>
+
+      <figure>
+        <div class="speed"><video controls>
+          <source src="/files/ori-content/trex-run-sept22.mp4" type="video/mp4">
+        </video></div>
+        <figcaption> Our Policy's best performance as of Sept22,2026 (I know it's still very bad) </figcaption>
+      </figure>
+    </div>
+
+
     <section>
-      <h2>Motivation</h2>
-      <p> 
-        <br>
+      <h2>Motivation</h2> 
+      <p>
         So the task is simple (ofcourse for humans only yet) - to fold a 15x15 origami Tant paper to a paper airplane.
         A lot more challenging for a robot given the multi-modal observation dependency, precise manipulation requirements, a lot of occlusion, and contact rich nature of this task.
         Clearly visible from the videos above ( teleop vs what our best policy could run).
@@ -47,31 +78,38 @@ layout: null
 
       <section>
       <h2>Problem setup</h2>
-      <p> 
-        <br>
-        We are provided Sharpa wave teleop data (550+ episodes of 3-4 mins each) for the competition-set.
+      <p>
+        We were provided Sharpa wave teleop data (550+ episodes of 3-4 mins each) for the competition-set.
         Modalities include RGB-Head-Left/Right, Wrist-Left/Right, tactile(fxfyfzTxTyTz), joint-torques, tactile-images(raw+deformation).
         Action were 65 dim vectors corresponding to the 65 robot joints.
+        No simulation available.
+      </p>
+      <p>
+        Dataset: <a href="https://huggingface.co/datasets/SharpaIT/Robotic_Origami_Challenge/" target="_blank" rel="noopener">huggingface.co/datasets/SharpaIT/Robotic_Origami_Challenge</a>
       </p>
     </section>
      
 
     <section>
-      <h2>Things we did</h2>
+      <h2>Things we tried: </h2>
       <p>
-        <br>
-        We mainly experimented the capabilities and limitations of existing works name ViTacFormer - https://roboverseorg.github.io/ViTacFormerPage/ 
-        and T-Rex - https://tactile-reactive-dexterous.github.io/ robotics policies over this task of folding a origami paper using sharpa robot.
-        
-        <br><br> We also did some modifications to the existing architecture in hopes of improving it, including : <br>
-        1. Handling degenerate action dimensions. <br>
-        2. Incorporating temporal attention in non-linear window as a proxy for short-term memory (with the intention to handle occlusion). <br>
-        3. Experimented with different actions prediction techniques (delta actions, absolute actions, hybrid,  ) <br>
-        4. Found possible flaws in existing architectures ( shortcut learning in ViTacFormer).<br><br>
+        We mainly experimented the capabilities and limitations of existing works name
+        ViTacFormer - <a href="https://roboverseorg.github.io/ViTacFormerPage/" target="_blank" rel="noopener">roboverseorg.github.io/ViTacFormerPage</a>
+        and T-Rex - <a href="https://tactile-reactive-dexterous.github.io/" target="_blank" rel="noopener">tactile-reactive-dexterous.github.io</a>
+        robotics policies over this task of folding a origami paper using sharpa robot.
+      </p>
 
+      <p>We also did some modifications to the existing architecture in hopes of improving it, including:</p>
+      <ol>
+        <li>Handling degenerate action dimensions.</li>
+        <li>Incorporating temporal attention in non-linear window as a proxy for short-term memory (with the intention to handle occlusion).</li>
+        <li>Experimented with different actions prediction techniques (relative vs anchored delta actions, absolute actions, hybrid,  )</li>
+        <li>Found possible flaws in existing architectures ( shortcut learning in ViTacFormer).</li>
+      </ol>
+
+      <p>
         One thing to note is the our validations before testing were done on measuring deviation from actual teleop runs from the validation datasets.
         Thus doesn't reflect the capability of the trained model but given we didn't have any actual robot / paper folding simulation this was our only resort.
-        
       </p>
 
       <!-- <figure>
@@ -82,50 +120,65 @@ layout: null
 
      <section>
       <h2>1. ViTacFormer</h2>
+      <p>This was the first policy we adapted to the origami task given it had already worked with sharpa robot albeit on different tasks.</p>
+
+      <p>In brief vitacformer itself adpats the pi0 policy to work with extra inputs of tactile.</p>
+
+      <p>Limitations we found: It lacks any language encoder hence lacks any ability to incorporate any task prior using language.</p>
+
+      <p>Possible flawsin plain architecture:</p>
+      <ol>
+        <li>
+          When current state is passed as one of the inputs it clearly performs shortcut learning, or more formally showcases what is known as causal-confusion where the cause of predicted actions is incorrectly deduced from the input actions.
+          Thus is clearly evident in the plots + video below where the policy we tested on real robot clearly does perform paper folding actions even when the paper is not even grasped. Thus associating current state to next state disregarding image modality.
+
+          We were excited to see the predicts close to ground truth ( which we were also skeptical of) until we saw the real-robot run on - DATE?
+        </li>
+      </ol>
+
       <p>
-        <br>
-        This was the first policy we adapted to the origami task given it had already worked with sharpa robot albeit on different tasks.
-        <br><br>
-        In brief vitacformer itself adpats the pi0 policy to work with extra inputs of tactile.
-
-        <br><br>
-        Limitations we found: It lacks any language encoder hence lacks any ability to incorporate any task prior using language.
-
-        <br><br>
-        Possible flawsin plain architecture: 
-        <br>1. When current state is passed as one of the inputs it clearly performs shortcut learning, or more formally showcases what is known as causal-confusion where the cause of predicted actions is incorrectly deduced from the input actions.
-        Thus is clearly evident in the plots + video below where the policy we tested on real robot clearly does perform paper folding actions even when the paper is not even grasped. Thus associating current state to next state disregarding image modality.
-
-        We were excited to see the predicts close to ground truth ( which we were also skeptical of) until we saw the real-robot run on - DATE?
-        
-        <br><br>This was also evidient in the ablation we did of trained ViTacFormer.Adding large noise in state affects the output MSE by over 400% while noising image only affects by 4% eventho the tokens pertaining to visual domain are lotmore than state tokens.
-
-        TO ADD: OUR SUBMISSION VIDEOS + PLOTS + ABLATIONS.
-
-        <br><br>We also moved on to T-Rex which we found in later half of August over ViTacFormer given better encoders and overall architecture.
-        
+        This was also evidient in the ablation we did of trained ViTacFormer.Adding large noise in state affects the output MSE by over 400% while noising image only affects by 4% eventho the tokens pertaining to visual domain are lotmore than state tokens.
       </p>
+
+      <p>TO ADD: OUR SUBMISSION VIDEOS + PLOTS + ABLATIONS.</p>
+
+      <p>We also moved on to T-Rex which we found in later half of August over ViTacFormer given better encoders and overall architecture.</p>
 
       <!-- <figure>
         <img src="{{ '/images/blog/origami-trex-approach/architecture-placeholder.png' | relative_url }}" alt="architecture diagram placeholder">
         <figcaption>REPLACE ME: architecture diagram caption</figcaption>
       </figure> -->
+          <!-- <section> -->
+      <figure>
+        <div class="speed"><video controls>
+          <source src="/files/ori-content/vitacformer-blind-policy.mp4" type="video/mp4">
+        </video></div>
+        <figcaption> ViTacFormer's run showing Causal Confusion </figcaption>
+      </figure>
+    <!-- </section> -->
+
+
+      <figure>
+        <img src="/files/ori-content/vitacformer-val.jpeg" alt="Validation over unseen episode">
+        <figcaption> Validation over unseen episode (we should have understood the causal-confusion here but missed it) </figcaption>
+      </figure>
 
     </section>
 
     <section>
       <h2>2. T-Rex</h2>
       <p>
-        <br>
-        Tested on Sharpa robot again, T-Rex is a flow-matching based policy that uses slow KV-cache(involving vision + text tokens) 
-        to be attended over by fast queries(of actions/tactiles in fast phase.) 
+        Tested on Sharpa robot again, T-Rex is a flow-matching based policy that uses slow KV-cache(involving vision + text tokens)
+        to be attended over by fast queries(of actions/tactiles in fast phase.)
+      </p>
 
-        <br><br>
+      <p>
         Recent papers like [ list of pprs ]. have moved on to flow-matching approaches given ...FIND THE EXACT REASON.........
 
         It was honestly a bit late by the time we started experimenting with T-Rex (already a week into Sept).
-        <br><br> Our base policy predicted absolute position we 
       </p>
+
+      <p>Our base policy predicted absolute position we </p>
 
       <!-- <figure>
         <img src="{{ '/images/blog/origami-trex-approach/architecture-placeholder.png' | relative_url }}" alt="architecture diagram placeholder">
@@ -139,11 +192,15 @@ layout: null
       <p>REPLACE ME: what you're showing in the run video(s) below.</p>
 
       <figure>
-        <video controls>
-          <source src="{{ '/images/blog/origami-trex-approach/run-demo-placeholder.mp4' | relative_url }}" type="video/mp4">
-        </video>
+        <img src="/files/ori-content/trex-noisy-actoins-plot.jpeg" alt="Noisy actions plot">
         <figcaption>REPLACE ME: run video caption</figcaption>
       </figure>
+    </section>
+
+
+    <section>
+      <!-- TODO: add final test run video here -->
+      <p><em>Final Test run &mdash; video coming soon.</em></p>
     </section>
 
     <section>
