@@ -26,7 +26,7 @@ layout: null
     .video-row { display: flex; gap: 1rem; margin: 2rem 0; }
     .video-row figure { flex: 1 1 0; min-width: 0; margin: 0; }
     .video-row video { aspect-ratio: 1 / 1; object-fit: contain; background: #000; }
-    @media (max-width: 520px) { .video-row { flex-direction: column; } }
+    @media (max-width: 520px) { .video-row { flex-direction: column; } .video-row figure { flex: none; } }
     .speed { position: relative; line-height: 0; }
     .speed::after { content: "1x"; position: absolute; top: 8px; right: 8px; padding: 2px 8px; border-radius: 4px; background: rgba(0,0,0,0.65); color: #fff; font-size: 0.8rem; font-weight: 700; line-height: 1.4; pointer-events: none; }
   </style>
