@@ -18,6 +18,35 @@ body {
 }
 </style>
 
+<!-- Robotic Origami Challenge -->
+<div class="research-block ">
+	<div class="left">
+		<span class="research-img">
+			<img src="/files/ori-content/robot-folding-paper.jpeg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">IROS 2026 Robotic Origami Challenge | Training Robots to Fold a Paper Plane</div>
+		<div class="sub-title">
+			<a href="https://robotic-origami-challenge.github.io/"  style="font-family: inherit;color: blue;" >IROS 2026 Robotic Origami Challenge</a> along with Kshitij Bhat,
+			<a class="tab_paper" href="/blogs/Training-robots-to-fold-paper-planes-Attempt-1/">Blog</a>
+		</div>
+		<span class="research-text">
+			<ul>
+				<li>
+				Adapted ViTacFormer and T-Rex, vision-tactile robot policies, to fold a 15x15 origami paper into a paper airplane on the Sharpa Wave robot from 550+ teleoperated episodes.
+				</li>
+				<li>
+				Modified the architectures with handling of degenerate action dimensions, temporal attention as short-term memory for occlusion, and different action prediction schemes (delta, absolute, hybrid). Identified shortcut learning (causal confusion) in ViTacFormer.
+				</li>
+				<li>
+				<b>Keywords:</b> Imitation Learning, Flow Matching, Tactile Sensing, PyTorch, Dexterous Manipulation.
+				</li>
+			</ul>
+		</span>
+	</div>
+</div>
+
 <!--  ETHZ -->
 <div class="research-block highlight">
 	<div class="left">
